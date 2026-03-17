@@ -1,4 +1,4 @@
-# ldenis001-<!-- HEADER WAVE BANNER -->
+# ldenis001 <!-- HEADER WAVE BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=220&section=header&text=Lazaro%20Denis&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=GRC%20Analyst%20%7C%20Cybersecurity%20Professional&descSize=20&descAlignY=62&descColor=90e0ef" />
 </p>
