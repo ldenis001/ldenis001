@@ -60,6 +60,9 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 ### 🔍 [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
 > Full TPRM simulation evaluating a fictional SaaS HR platform against **NIST CSF 2.0** and **ISO 27001:2022**. Includes risk register, POA&M, and executive summary with Conditional Approval outcome.
 
+### ⚙️ [TPRM Automation Toolkit](https://github.com/ldenis001/tprm-automation-toolkit)
+> 4 Python scripts automating the full TPRM lifecycle — inherent risk scoring, NIST CSF 2.0 questionnaire gap analysis, ISO 27001 control gap detection, and vendor POA&M tracking. Generates color-coded HTML dashboards with zero external dependencies.
+
 ### 🛡️ [Tenable Vulnerability Management Lab](https://github.com/ldenis001/LazCyber)
 > End-to-end vulnerability management lab on Azure Windows 10 VM — three scan cycles: baseline, post-misconfiguration, post-remediation. Includes STIG remediation tables and PowerShell remediation scripts.
 
