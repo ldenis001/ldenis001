@@ -69,7 +69,7 @@ The project reflects my interest in **GRC, third-party risk, and security operat
 
 🔗 **View Dashboard Files:** [Dashboard Project](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab/tree/main/dashboard)  
 🔗 **View Full Lab:** [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
-## 🚀 Featured Projects
+## 🚀 Strong Projects
 
 ### 🔍 [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
 > Full TPRM simulation evaluating a fictional SaaS HR platform against **NIST CSF 2.0** and **ISO 27001:2022**. Includes risk register, POA&M, and executive summary with Conditional Approval outcome.
