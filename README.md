@@ -54,7 +54,21 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 | **Scripting** | PowerShell · Python (basics) |
 
 ---
+## Featured Project: Third-Party Vendor Risk Assessment Dashboard
 
+This dashboard is a featured component of my **Third-Party Vendor Risk Management (TPVRM) homelab** hosted on GitHub. It was created to showcase how vendor assessments can be translated into a simple, visual workflow that supports risk review, control evaluation, and reporting.
+
+The project reflects my interest in **GRC, third-party risk, and security operations** by demonstrating how teams can organize vendor risk information in a way that is easier to analyze and communicate to stakeholders.
+
+**Key focus areas:**
+- Vendor intake and assessment workflow
+- Third-party risk visibility
+- GRC-style documentation and reporting
+- Control review and risk prioritization
+- Practical cybersecurity portfolio development
+
+🔗 **View Dashboard Files:** [Dashboard Project](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab/tree/main/dashboard)  
+🔗 **View Full Lab:** [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
 ## 🚀 Featured Projects
 
 ### 🔍 [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
