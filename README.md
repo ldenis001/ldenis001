@@ -54,25 +54,28 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 | **Scripting** | PowerShell · Python (basics) |
 
 ---
-## Featured Project: Third-Party Vendor Risk Assessment Dashboard
 
-This dashboard is a featured component of my **Third-Party Vendor Risk Management (TPVRM) homelab** hosted on GitHub. It was created to showcase how vendor assessments can be translated into a simple, visual workflow that supports risk review, control evaluation, and reporting.
+## 🌐 Live Tools
 
-The project reflects my interest in **GRC, third-party risk, and security operations** by demonstrating how teams can organize vendor risk information in a way that is easier to analyze and communicate to stakeholders.
+> Deployed, interactive GRC tools — open in your browser, no login required.
 
-**Key focus areas:**
-- Vendor intake and assessment workflow
-- Third-party risk visibility
-- GRC-style documentation and reporting
-- Control review and risk prioritization
-- Practical cybersecurity portfolio development
+| Tool | Description | Link |
+|------|-------------|------|
+| 📋 **Vendor/Supplier Qualification Questionnaire** | 40-question VSQ across 6 risk domains (Labor, Forced Labor/UFLPA, Environmental, Quality, Cybersecurity, Ethics). Auto-scores on submit and returns Approved / Conditional / Declined with a full action-item breakdown. | [**Launch →**](https://ldenis001.github.io/supplier-vsq) |
 
-🔗 **View Dashboard Files:** [Dashboard Project](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab/tree/main/dashboard)  
-🔗 **View Full Lab:** [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
-## 🚀 Strong Projects
+---
+
+## 🚀 Projects
+
+### 📋 [Vendor/Supplier Qualification Questionnaire (VSQ)](https://github.com/ldenis001/supplier-vsq)
+> Interactive, self-scoring supplier qualification form modeled on enterprise TPRM programs. Covers **Labor & Human Rights, Forced Labor Traceability (UFLPA / EU CSDDD), Environmental, Quality Management, Cybersecurity, and Ethics** — 40 questions with weighted risk scoring. Returns Approved / Conditional / Declined with a downloadable plain-text report. Deployed live — no backend, no login, single HTML file.
+>
+> 🔗 **Live demo:** [ldenis001.github.io/supplier-vsq](https://ldenis001.github.io/supplier-vsq)
 
 ### 🔍 [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
 > Full TPRM simulation evaluating a fictional SaaS HR platform against **NIST CSF 2.0** and **ISO 27001:2022**. Includes risk register, POA&M, and executive summary with Conditional Approval outcome.
+>
+> 🔗 **Dashboard:** [View Files](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab/tree/main/dashboard)
 
 ### ⚙️ [TPRM Automation Toolkit](https://github.com/ldenis001/tprm-automation-toolkit)
 > 4 Python scripts automating the full TPRM lifecycle — inherent risk scoring, NIST CSF 2.0 questionnaire gap analysis, ISO 27001 control gap detection, and vendor POA&M tracking. Generates color-coded HTML dashboards with zero external dependencies.
