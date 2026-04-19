@@ -55,12 +55,52 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 
 ---
 
+## 🔥 Featured Project
+
+<table>
+<tr>
+<td width="100%">
+
+### 🛡️ [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
+
+<p>
+  <img src="https://img.shields.io/badge/NIST_CSF-2.0-003087?style=flat-square&logo=nist&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO-27001:2022-0078D4?style=flat-square&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk_Level-Medium-FFA500?style=flat-square" />
+</p>
+
+A **complete, end-to-end TPRM simulation** evaluating a fictional SaaS HR vendor ("CloudSync Solutions") for onboarding by a financial services firm. Walks through the full vendor risk lifecycle — from intake and security review through control mapping, risk scoring, remediation planning, and executive reporting.
+
+**What's inside:**
+- 📊 **Interactive GRC Dashboard** — live risk scoring, framework compliance tracking, and vendor assessment tool deployed on GitHub Pages
+- 🗺️ **Control Mapping** — every finding mapped to **NIST CSF 2.0** functions and **ISO 27001:2022** Annex A controls
+- 📋 **Risk Register & POA&M** — quantified risk scores with remediation milestones
+- 📝 **Executive Summary** — conditional approval recommendation with 3 critical gaps identified
+- 📦 **Full Evidence Package** — artifact tracking logs and documentation chain
+
+<p align="center">
+  <a href="https://ldenis001.github.io/third-party-vendor-risk-assessment-lab/dashboard/grc-dashboard.html">
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_DASHBOARD-00b4d8?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/ldenis001/third-party-vendor-risk-assessment-lab">
+    <img src="https://img.shields.io/badge/📂_VIEW_FULL_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🌐 Live Tools
 
 > Deployed, interactive GRC tools — open in your browser, no login required.
 
 | Tool | Description | Link |
 |------|-------------|------|
+| 📊 **GRC Vendor Risk Dashboard** | Interactive risk assessment dashboard with vendor scoring, framework compliance tracking (NIST CSF 2.0 / ISO 27001), data classification, and exportable risk reports. | [**Launch →**](https://ldenis001.github.io/third-party-vendor-risk-assessment-lab/dashboard/grc-dashboard.html) |
 | 📋 **Vendor/Supplier Qualification Questionnaire** | 40-question VSQ across 6 risk domains (Labor, Forced Labor/UFLPA, Environmental, Quality, Cybersecurity, Ethics). Auto-scores on submit and returns Approved / Conditional / Declined with a full action-item breakdown. | [**Launch →**](https://ldenis001.github.io/supplier-vsq) |
 
 ---
@@ -71,11 +111,6 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 > Interactive, self-scoring supplier qualification form modeled on enterprise TPRM programs. Covers **Labor & Human Rights, Forced Labor Traceability (UFLPA / EU CSDDD), Environmental, Quality Management, Cybersecurity, and Ethics** — 40 questions with weighted risk scoring. Returns Approved / Conditional / Declined with a downloadable plain-text report. Deployed live — no backend, no login, single HTML file.
 >
 > 🔗 **Live demo:** [ldenis001.github.io/supplier-vsq](https://ldenis001.github.io/supplier-vsq)
-
-### 🔍 [Third-Party Vendor Risk Assessment Lab](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab)
-> Full TPRM simulation evaluating a fictional SaaS HR platform against **NIST CSF 2.0** and **ISO 27001:2022**. Includes risk register, POA&M, and executive summary with Conditional Approval outcome.
->
-> 🔗 **Dashboard:** [View Files](https://github.com/ldenis001/third-party-vendor-risk-assessment-lab/tree/main/dashboard)
 
 ### ⚙️ [TPRM Automation Toolkit](https://github.com/ldenis001/tprm-automation-toolkit)
 > 4 Python scripts automating the full TPRM lifecycle — inherent risk scoring, NIST CSF 2.0 questionnaire gap analysis, ISO 27001 control gap detection, and vendor POA&M tracking. Generates color-coded HTML dashboards with zero external dependencies.
@@ -128,3 +163,5 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ldenis001&color=00b4d8&style=flat-square&label=Profile+Views" />
 </p>
+
+---
