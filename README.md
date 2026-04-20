@@ -1,4 +1,4 @@
-# Ldenis001 <!-- HEADER WAVE BANNER -->
+# 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ldenis001/ldenis001/main/github-banner.png" alt="Lazaro Denis - GRC Analyst" width="100%" />
 </p>
