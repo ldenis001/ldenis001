@@ -1,6 +1,6 @@
 # Ldenis001 <!-- HEADER WAVE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=220&section=header&text=Lazaro%20Denis&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=GRC%20Analyst%20%7C%20Cybersecurity%20Professional&descSize=20&descAlignY=62&descColor=90e0ef" />
+  <img src="https://raw.githubusercontent.com/ldenis001/ldenis001/main/github-banner.png" alt="Lazaro Denis - GRC Analyst" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -47,7 +47,8 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 |---|---|
 | **GRC Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · NIST RMF · SOC 2 |
 | **Risk Management** | TPRM · Vendor Risk · Risk Register · POA&M |
-| **Compliance** | PCI DSS · HIPAA · CIS Controls |
+| **Incident Response** | IR Planning · Tabletop Exercises · ISO 27035 · MITRE ATT&CK |
+| **Compliance** | PCI DSS · HIPAA · CIS Controls · GDPR |
 | **SIEM / Detection** | Microsoft Sentinel · KQL · Defender XDR |
 | **Vuln Management** | Tenable Nessus · Qualys VMDR |
 | **Cloud** | Microsoft Azure · Entra ID |
@@ -55,7 +56,7 @@ I'm a GRC Analyst with roots in **cyber insurance underwriting** — a backgroun
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
 <table>
 <tr>
@@ -92,6 +93,41 @@ A **complete, end-to-end TPRM simulation** evaluating a fictional SaaS HR vendor
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="100%">
+
+### 🚨 [Incident Response Tabletop Simulation](https://github.com/ldenis001/incident-response-lab)
+
+<p>
+  <img src="https://img.shields.io/badge/NIST_CSF-2.0-003087?style=flat-square&logo=nist&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO-27035-0078D4?style=flat-square&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT&CK-v14-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
+</p>
+
+**The perspective flips:** instead of assessing CloudSync Solutions as a vendor, you're now on their IR team **responding to live incidents**. Three interactive tabletop scenarios with step-by-step walkthroughs, decision points, realistic SIEM alerts, and full framework mapping.
+
+**Three scenarios you walk through:**
+- 🔐 **Ransomware (BlackCat/ALPHV)** — Friday 2:47 AM, $2.5M ransom, encrypted file servers, compromised VPN
+- 🎣 **Phishing → Data Breach** — credential theft, mail forwarding rule, 12,847 employee records exfiltrated
+- 👤 **Insider Threat** — departing IT manager steals customer database via USB + Google Drive
+
+**Interactive features:** decision points with best-practice feedback, Sentinel KQL log output, communication templates (executive briefings, client notifications, regulatory filings), MITRE ATT&CK technique cards, and post-incident metrics (MTTD, MTTR, cost estimates).
+
+<p align="center">
+  <a href="https://ldenis001.github.io/incident-response-lab/ir-simulation.html">
+    <img src="https://img.shields.io/badge/🚨_LAUNCH_IR_SIMULATION-da3633?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/ldenis001/incident-response-lab">
+    <img src="https://img.shields.io/badge/📂_VIEW_FULL_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🌐 Live Tools
@@ -101,6 +137,7 @@ A **complete, end-to-end TPRM simulation** evaluating a fictional SaaS HR vendor
 | Tool | Description | Link |
 |------|-------------|------|
 | 📊 **GRC Vendor Risk Dashboard** | Interactive risk assessment dashboard with vendor scoring, framework compliance tracking (NIST CSF 2.0 / ISO 27001), data classification, and exportable risk reports. | [**Launch →**](https://ldenis001.github.io/third-party-vendor-risk-assessment-lab/dashboard/grc-dashboard.html) |
+| 🚨 **IR Tabletop Simulation** | 3 interactive incident response scenarios (ransomware, phishing/breach, insider threat) with decision trees, realistic log evidence, MITRE ATT&CK mapping, and communication templates. | [**Launch →**](https://ldenis001.github.io/incident-response-lab/ir-simulation.html) |
 | 📋 **Vendor/Supplier Qualification Questionnaire** | 40-question VSQ across 6 risk domains (Labor, Forced Labor/UFLPA, Environmental, Quality, Cybersecurity, Ethics). Auto-scores on submit and returns Approved / Conditional / Declined with a full action-item breakdown. | [**Launch →**](https://ldenis001.github.io/supplier-vsq) |
 
 ---
@@ -141,6 +178,9 @@ A **complete, end-to-end TPRM simulation** evaluating a fictional SaaS HR vendor
 <p align="left">
   <a href="https://www.linkedin.com/in/lazaro-denis-cybersecurity/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Lazaro%20Denis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ldenis001.github.io/LazCyber/portfolio.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-LazCyber-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/ldenis001/LazCyber" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-LazCyber%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
